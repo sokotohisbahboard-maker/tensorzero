@@ -1,59 +1,59 @@
 ```markdown
 # Sokoto Hisbah Board Dashboard
 
-## 🛡️ Bayani
-Manhaja don gudanar da ma’aikata, dokoki, da sakonni a hukumar Hisbah ta Sokoto. Tana goyon bayan Hausa, Turanci, da Larabci.
+## 🛡️ Description
+A software to manage staff, rules, and messages in the Sokoto Hisbah Board. It supports Hausa, English, and Arabic.
 
-## 📦 Fasali
-- Rijistar admin da ma’aikata
-- Sakon dokoki da “Donka ta Bukata”
-- Canjin yare
-- Installer don Windows/Linux
+ ## 📦 Features
+- Admin and staff registration
+- Legal message and “You Need”
+- Language change
+- Installer for Windows/Linux
 
-## 📧 Tuntuɓar
+## 📧 Contact
 Email: sokotohisbahboard@gmail.com
 Domain: https://hisbah.sokoto.gov.ng
 ```
 
-4. Rubuta *Commit message*: `Ƙirƙirar README.md`
-5. Danna *Commit new file*
+4. Write *Commit message*: `Create README.md`
+5. Click *Commit new file*
 
 ---
 
-*🔹 B. Ƙirƙirar `LICENSE`*
-1. Danna *Add file → Create new file*
-2. Rubuta *File name*: `LICENSE`
-3. Danna gefen dama: *Choose a license template*
-4. Zaɓi *MIT License*
-5. GitHub zai cika template da sunan repo da shekarar yanzu
-6. Rubuta *Commit message*: `Ƙirƙirar LICENSE file`
-7. Danna *Commit new file*
+*🔹 B. Create `LICENSE`*
+1. Click *Add file → Create new file*
+2. Write *File name*: `LICENSE`
+3. Click on the right side: *Choose a license template*
+4. Select *MIT License*
+5. GitHub will fill in the template with the name of the repo and the current year
+6. Write *Commit message*: `Create LICENSE file`
+7. Click *Commit new file*
 
 ---
 
-*🔹 C. Ƙirƙirar Folder da Takardu (e.g. `docs/user-manual-hausa.md`)*
-1. Danna *Add file → Create new file*
-2. Rubuta *File name*: `docs/user-manual-hausa.md`
-3. Liƙa wannan abun ciki:
+*🔹 C. Create a Folder and Documents (e.g.  `docs/user-manual-hausa.md`)*
+1. Click *Add file → Create new file*
+2. Type *File name*: `docs/user-manual-hausa.md`
+3. Paste this content:
 
 ```markdown
-# Jagorar Amfani da Dashboard na Hisbah
+# Hisbah Dashboard User Guide
 
-## 🧾 Shiga Dashboard
-1. Yi login da bayanan admin
-2. Zaɓi yare: Hausa, Turanci, ko Larabci
+## 🧾 Log in to the Dashboard
+1. Login with admin credentials
+2. Select language: Hausa, English, or Arabic
 
-## 👥 Gudanar da Ma’aikata
-- Ƙara sabbin ma’aikata da lambar ID
-- Duba sassa da adireshi
+## 👥 Employee Management
+- Add new employees with ID number
+- View sections and addresses
 
-## 📜 Turawa Dokoki
-- Rubuta sako
-- Zaɓi sashe da aika
+## 📜 Posting Rules
+- Write a message
+- Select section and send
 
-## 📞 Tuntuɓar
+## 📞 Contact
 Email: sokotohisbahboard@gmail.com
 ```
 
-4. Rubuta *Commit message*: `Ƙirƙirar user manual da Hausa`
-5. Danna *Commit new file*
+4. Type *Commit message*: `Create user manual in Hausa`
+5. Click *Commit new file*
